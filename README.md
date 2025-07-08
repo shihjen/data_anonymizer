@@ -1,6 +1,6 @@
 # df-anonymizer
 
-A lightweight Python library designed to apply privacy-preserving transformations on datasets in `pandas.DataFrame` format.  
+A Python library designed to apply privacy-preserving transformations on datasets in `pandas.DataFrame` format.  
 It is ideal for preparing data for research, analysis, reporting or machine learning while protecting sensitive personal information.
 
 ## ✨ Key Features
@@ -236,3 +236,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📘 Reference
 
 1. [Guide To Basic Anonymization](https://www.pdpc.gov.sg/help-and-resources/2018/01/basic-anonymisation) 
+
+## 🙏 Acknowledgments
+
+This project is made possible by the robust Python open-source ecosystem. Special thanks to:
+
+- [Pandas](https://pandas.pydata.org/): for flexible and powerful data structures  
+- [NumPy](https://numpy.org/): for high-performance numerical computing  
+- Python’s standard library modules such as `datetime` and `collections`
